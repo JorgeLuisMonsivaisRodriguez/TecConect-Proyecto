@@ -4,10 +4,10 @@ Equipo: EQ-06
 
 ## Integrantes
 
-- Jonathan Alfredo Rodríguez Ramírez - Coordinación y Gestión
-- Gilberto Juárez Hernández - Análisis y Requerimientos
-- Alfonso Herrera Díaz - Desarrollo e Implementación
-- Jorge Luis Monsivais Rodríguez - Calidad y Documentación
+
+- Angel David Perez Sanchez- Análisis y Requerimientos
+- Alfonso Herrera Díaz - Calidad y documentación 
+- Jorge Luis Monsivais Rodríguez - coordinador y desarrollo 
 
 ## Organización
 
