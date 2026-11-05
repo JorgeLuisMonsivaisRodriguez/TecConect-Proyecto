@@ -1,4 +1,4 @@
-# U3: Especificación de requisitos TecConect
+# U3:  requisitos de TecConect
 Equipo y roles: 
 [Angel David Perez Sánchez
 Alfonso Herrera Diaz
