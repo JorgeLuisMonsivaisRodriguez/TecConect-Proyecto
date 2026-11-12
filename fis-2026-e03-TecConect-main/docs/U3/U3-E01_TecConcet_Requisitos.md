@@ -30,12 +30,12 @@ rol principal
 ### B1. Plan de obtención
 
 | Pregunta por resolver | Persona o documento a consultar | Técnica | Responsable | Estado |
-| ¿Existe un límite de equipos o herramientas que un alumno activo puede solicitar al mismo tiempo? | Reglamento de Préstamos / Encargado de Ventanilla | Análisis documental / Entrevista | Jorge Luis Monsivais Rodriguez | Pendiente |
-| ¿Qué tipo de NIP o método de autenticación se usará para la confirmación digital del alumno en pantalla? | Responsable de Seguridad / TI Institucional | Entrevista | Alfonso | Pendiente |
+¿Existe un límite de equipos o herramientas que un alumno activo puede solicitar al mismo tiempo? | Reglamento de Préstamos / Encargado de Ventanilla | Análisis documental / Entrevista | Jorge Luis Monsivais Rodriguez | Pendiente |
+| ¿Qué tipo de NIP o método de autenticación se usará para la confirmación digital del alumno en pantalla? | Responsable de Seguridad / Institucional | Entrevista | Alfonso | Pendiente |
 | ¿Cómo se procede cuando el código QR del equipo está dañado o no se lee correctamente? | Personal de ventanilla de laboratorio | Observación / Entrevista | Ángel | Pendiente |
 
 ### B2. Fuentes realmente consultadas
-*Sin fuentes confirmadas todavía.*
+ sin fuentes todavía
 
 ## C. Organización del alcance
 
@@ -46,4 +46,4 @@ rol principal
   * Validar credencial y estatus del estudiante.
   * Registrar asignación de equipo mediante escaneo.
   * Autorización y confirmación digital del préstamo.
-* **RF vinculados:** *Por definir con fuentes confirmadas.*
+* **RF vinculados:** por definir.
