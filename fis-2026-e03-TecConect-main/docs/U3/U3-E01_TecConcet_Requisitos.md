@@ -46,4 +46,4 @@ Sin fuentes todavía.
   * Validar credencial y estatus del estudiante.
   * Registrar asignación de equipo mediante escaneo.
   * Autorización y confirmación digital del préstamo.
-* **RF vinculados:** *Por definir con fuentes confirmadas.*
+* **RF vinculados:** por definir
