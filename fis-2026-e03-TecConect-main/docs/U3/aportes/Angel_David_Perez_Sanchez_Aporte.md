@@ -92,13 +92,13 @@ Como responsable de **QA / Revisión**, comprobé que mis dos requisitos cumplan
 
 ---
 
-## 4. Control de versiones y referencias
+# 4. Control de versiones y referencias
 
-* **Archivo en GitHub:** `docs/U3/aportes/Angel_David_Perez_Aporte.md`
-* **Rama individual:** `docs/u3-angel-perez-aporte`
-* **Commit registrado:** `docs(u3): agrega aporte individual RF-05 y RNF-01`
+* **Archivo en GitHub:** [`docs/U3/aportes/Angel_David_Perez_Sanchez_Aporte.md`](https://github.com/JorgeLuisMonsivaisRodriguez/TecConect-Proyecto/blob/main/fis-2026-e03-TecConect-main/docs/U3/aportes/Angel_David_Perez_Sanchez_Aporte.md)
+* **Rama individual:** `docs/u3-aporte-angel-perez`
+* **Commit registrado:** [`ab9eca3`](https://github.com/JorgeLuisMonsivaisRodriguez/TecConect-Proyecto/commit/ab9eca314fa1eab24bff965fc685824d0cbc1c7a) — `docs(u3): agrega aporte individual RF-05 y RNF-01` (16/11/2026, 16:46 CST)
+* **Pull Request:** [PR #2 «Docs/u3 aporte angel perez»](https://github.com/JorgeLuisMonsivaisRodriguez/TecConect-Proyecto/pull/2), de `docs/u3-aporte-angel-perez` hacia `main`, fusionado el 16/11/2026 a las 16:48 CST (merge `92ea6dc`)
 * **Tablero Trello:** [Tablero TecConect 2.0](https://trello.com/b/EZI199d4)
-
 
 ### Referencias
 1. Instituto Tecnológico Superior de San Pedro de las Colonias. *Trabajos de Fundamentos de Ingeniería de Software - TecConnect*. Documento base del equipo, 08 de octubre de 2026, pp. 1–15 (`trabajos.pdf`).
