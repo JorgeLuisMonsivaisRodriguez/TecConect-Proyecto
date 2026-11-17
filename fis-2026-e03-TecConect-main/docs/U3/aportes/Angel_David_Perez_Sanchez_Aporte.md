@@ -7,7 +7,7 @@
 **Docente:** Ruth Aivi Chávez Rodríguez  
 **Alumno:** Ángel David Pérez Sánchez  
 **Proyecto:** TecConnect  
-**Rol en Unidad 3:** QA / Revisión  
+**Rol en Unidad 3:** QA / Revisión / Documentación 
 **Fecha de elaboración:** 16 de noviembre de 2026  
 **Estado:** Validado  
 
@@ -21,7 +21,7 @@ Para el proceso **TO-BE: Gestión digital del préstamo de equipo de cómputo y 
 |---|---|---|---|---|
 | **F-01** | Revisión documental: acuerdo y descripción del proyecto (`trabajos.pdf`, pp. 1–5) | 08/10/2026 | TecConnect contempla credencialización digital y control de préstamos entre estudiantes y personal de ventanilla. | Documentado |
 | **F-02** | Revisión documental: proceso actual AS-IS (`trabajos.pdf`, pp. 6–9) | 08/10/2026 | El proceso actual depende de bitácoras manuales y hojas de Excel sin folio automático ni control estricto sobre quién consulta la información académica del alumno. | Documentado |
-| **F-03** | Entrevista semiestructurada: **Encargada de biblioteca** (ITSSPC) | 10/11/2026 | Se confirmó que en biblioteca se solicita la **matrícula del estudiante** para validar y confirmar el préstamo antes de entregar físicamente el equipo; el sistema debe guardar el préstamo generando un folio consultable y restringir el acceso a los datos del SII exclusivamente a personal autenticado. | Validado (Acta 01) |
+| **F-03** | Entrevista semiestructurada: **Encargada de biblioteca** (ITSSPC) | 10/11/2026 | Se confirmó que en biblioteca se solicita la **matrícula del estudiante y credencial estudiantil** para validar y confirmar el préstamo antes de entregar físicamente el equipo; el sistema debe guardar el préstamo generando un folio consultable y restringir el acceso a los datos del SII exclusivamente a personal autenticado. | Validado (Acta 01) |
 
 ### Necesidades identificadas
 * **N-04 (Confirmación por matrícula y registro trazable del préstamo):** Sustituir la captura manual en bitácora/Excel por un registro digital autorizado que solicite la confirmación mediante la matrícula del estudiante y vincule alumno, equipo, folio único y fecha/hora.
@@ -31,7 +31,7 @@ Para el proceso **TO-BE: Gestión digital del préstamo de equipo de cómputo y 
 
 ## 2. Requisitos individuales (`RF-05` y `RNF-01`)
 
-### Requisito 1: `RF-05` — Confirmación por matrícula y registro del préstamo autorizado
+### Requisito 1: `RF-05` — Confirmación por nip y registro del préstamo autorizado
 
 | Atributo | Detalle |
 |---|---|
